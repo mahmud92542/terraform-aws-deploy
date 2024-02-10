@@ -1,5 +1,3 @@
-Sure, here's a revised version of your `README.md` file:
-
 ---
 
 # Infrastructure as Code with Terraform for AWS
